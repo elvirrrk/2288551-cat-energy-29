@@ -28,8 +28,6 @@
   @media (min-width: $width-tablet) {
     display: inline;
     font-size: 16px;
-    position: relative;
-    top: -6px;
   }
 }
 
@@ -54,7 +52,7 @@
 }
 
 .form-set__about-cat {
-  margin-bottom: 10px;
+  margin-bottom: 12px;
 
   @media (min-width: $width-tablet) {
     margin-bottom: 72px;

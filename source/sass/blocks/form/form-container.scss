@@ -28,13 +28,11 @@
 
 .form-container__title {
   @include first-title;
-  margin-top: 27px;
   margin-bottom: 37px;
   color: $title-color;
   font-weight: 400;
 
   @media (min-width: $width-tablet) {
-    margin-top: 0;
     margin-bottom: 54px;
   }
 

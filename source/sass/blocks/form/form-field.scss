@@ -70,10 +70,6 @@
     margin: 0;
   }
 
-  &--number {
-    -moz-appearance: textfield; // stylelint-disable-line
-  }
-
   @media (min-width: $width-tablet) {
     padding: 10px 20px;
     flex-grow: 1;

@@ -1,7 +1,7 @@
 .show-more {
   display: block;
   list-style: none;
-  margin: 0 auto 22px;
+  margin: 3px auto 50px;
   width: 280px;
   text-align: center;
 
@@ -10,14 +10,13 @@
     height: 429px;
     border: 2px solid $dark-page-color;
     margin: 0;
-    margin-top: 95px;
+    margin-top: 81px;
     padding: 0 20px 20px;
   }
 
   @media (min-width: $width-desktop) {
     width: 250px;
     height: 429px;
-    margin-top: 82px;
     padding: 3px 20px 20px;
   }
 }
